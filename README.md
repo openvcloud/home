@@ -1,1 +1,3 @@
-OpenvCloud 3.0
+# OpenvCloud 3.0
+
+If you are looking for OpenvCloud 2.x, you can find it here: https://github.com/0-complexity/openvcloud
